@@ -10,7 +10,7 @@ $ npm run dev
 
 After doing these things follow this--
 
-   1. http://localhost:3000/api/seed
-   2. http://localhost:3000
+   1. Open http://localhost:3000/api/seed
+   2. Open http://localhost:3000
 
 ```
