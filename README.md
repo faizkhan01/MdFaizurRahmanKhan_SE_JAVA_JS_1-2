@@ -8,7 +8,7 @@ $ cd MdFaizurRahmanKhan_SE_JAVA_JS_1-2
 $ npm install
 $ npm run dev
 
-### After doing these things follow this--
+After doing these things follow this--
 
    1. http://localhost:3000/api/seed
    2. http://localhost:3000
